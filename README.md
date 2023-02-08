@@ -32,6 +32,7 @@ A curated list of packages for Web Development via [Laravel](https://laravel.com
 ## JavaScript / TypeScript
 
 [Get to parent 🧛](#packages)
+- [alpinejs](https://alpinejs.dev/)
 
 # Applications
 
@@ -50,3 +51,7 @@ A curated list of packages for Web Development via [Laravel](https://laravel.com
 # Best Practices
 
 [Get to top ⬆️](#table-of-contents)
+
+# VS Code extensions
+[Get to top ⬆️](#table-of-contents)
+- Livewire Extension Pack (id: `onecentlin.laravel-extension-pack`)
