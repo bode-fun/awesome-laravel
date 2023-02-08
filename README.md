@@ -54,4 +54,4 @@ A curated list of packages for Web Development via [Laravel](https://laravel.com
 
 # VS Code extensions
 [Get to top ⬆️](#table-of-contents)
-- Livewire Extension Pack (id: `onecentlin.laravel-extension-pack`)
+- Laravel Extension Pack (id: `onecentlin.laravel-extension-pack`)
