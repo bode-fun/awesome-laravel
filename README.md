@@ -56,3 +56,4 @@ A curated list of packages for Web Development via [Laravel](https://laravel.com
 # VS Code extensions
 [Get to top ⬆️](#table-of-contents)
 - Laravel Extension Pack (id: `onecentlin.laravel-extension-pack`)
+- Laravel Blade Space (id: `austenc.laravel-blade-spacer`)
