@@ -23,7 +23,8 @@ A curated list of packages for Web Development via [Laravel](https://laravel.com
 
 [Get to parent 🧛](#packages)
 
-- [livewire](https://laravel-livewire.com/)
+- [livewire/livewire](https://laravel-livewire.com/)
+- [filament/forms](https://filamentphp.com/docs/forms)
 
 ## Debugging
 
