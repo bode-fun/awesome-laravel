@@ -2,40 +2,42 @@
 
 A curated list of packages for Web Development via [Laravel](https://laravel.com/)! 😼
 
-# Table of Contents
+## Table of Contents
 
 - [Awesome Laravel 🐘](#awesome-laravel-)
-- [Table of Contents](#table-of-contents)
-- [Packages](#packages)
-  - [TALL-Stack](#tall-stack)
-  - [Debugging](#debugging)
-  - [JavaScript / TypeScript](#javascript--typescript)
-- [Applications](#applications)
+  - [Table of Contents](#table-of-contents)
+  - [Packages](#packages)
+    - [TALL-Stack](#tall-stack)
+    - [Debugging](#debugging)
+    - [JavaScript / TypeScript](#javascript--typescript)
+  - [Applications](#applications)
   - [Container Management](#container-management)
-- [Guides](#guides)
-- [Best Practices](#best-practices)
+  - [Guides](#guides)
+  - [Best Practices and Articles](#best-practices-and-articles)
+  - [VS Code extensions](#vs-code-extensions)
 
-# Packages
+## Packages
 
 [Get to top ⬆️](#table-of-contents)
 
-## TALL-Stack
+### TALL-Stack
 
 [Get to parent 🧛](#packages)
 
 - [livewire/livewire](https://laravel-livewire.com/)
 - [filament/forms](https://filamentphp.com/docs/forms)
 
-## Debugging
+### Debugging
 
 [Get to parent 🧛](#packages)
 
-## JavaScript / TypeScript
+### JavaScript / TypeScript
 
 [Get to parent 🧛](#packages)
+
 - [alpinejs](https://alpinejs.dev/)
 
-# Applications
+## Applications
 
 [Get to top ⬆️](#table-of-contents)
 
@@ -45,15 +47,19 @@ A curated list of packages for Web Development via [Laravel](https://laravel.com
 
 - [Rancher Desktop](https://rancherdesktop.io/)
 
-# Guides
+## Guides
 
 [Get to top ⬆️](#table-of-contents)
 
-# Best Practices
+## Best Practices and Articles
 
 [Get to top ⬆️](#table-of-contents)
 
-# VS Code extensions
+- [Laravel Best Practices](https://github.com/alexeymezenin/laravel-best-practices/)
+
+## VS Code extensions
+
 [Get to top ⬆️](#table-of-contents)
+
 - Laravel Extension Pack (id: `onecentlin.laravel-extension-pack`)
 - Laravel Blade Space (id: `austenc.laravel-blade-spacer`)
