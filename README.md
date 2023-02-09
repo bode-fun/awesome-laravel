@@ -56,6 +56,7 @@ A curated list of packages for Web Development via [Laravel](https://laravel.com
 [Get to top ⬆️](#table-of-contents)
 
 - [Laravel Best Practices](https://github.com/alexeymezenin/laravel-best-practices/)
+- [Oh Shit Git](https://ohshitgit.com/)
 
 ## VS Code extensions
 
