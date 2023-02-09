@@ -12,6 +12,7 @@ A curated list of packages for Web Development via [Laravel](https://laravel.com
     - [JavaScript / TypeScript](#javascript--typescript)
   - [Applications](#applications)
     - [Container Management](#container-management)
+    - [JSON](#json)
   - [Guides](#guides)
   - [Best Practices and Articles](#best-practices-and-articles)
   - [VS Code extensions](#vs-code-extensions)
@@ -46,6 +47,12 @@ A curated list of packages for Web Development via [Laravel](https://laravel.com
 [Get to parent 🧛](#applications)
 
 - [Rancher Desktop](https://rancherdesktop.io/)
+
+### JSON
+
+[Get to parent 🧛](#applications)
+
+- [Quicktype](https://app.quicktype.io/)
 
 ## Guides
 
