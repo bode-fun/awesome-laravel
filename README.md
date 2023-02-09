@@ -11,7 +11,8 @@ A curated list of packages for Web Development via [Laravel](https://laravel.com
     - [Debugging](#debugging)
     - [JavaScript / TypeScript](#javascript--typescript)
   - [Applications](#applications)
-  - [Container Management](#container-management)
+    - [Container Management](#container-management)
+    - [JSON](#json)
   - [Guides](#guides)
   - [Best Practices and Articles](#best-practices-and-articles)
   - [VS Code extensions](#vs-code-extensions)
@@ -24,8 +25,8 @@ A curated list of packages for Web Development via [Laravel](https://laravel.com
 
 [Get to parent 🧛](#packages)
 
-- [livewire/livewire](https://laravel-livewire.com/)
-- [filament/forms](https://filamentphp.com/docs/forms)
+- [livewire/livewire](https://laravel-livewire.com/) - Build SPA-like Apps only with Blade. Like StimulusReflex for Rails
+- [filament/forms](https://filamentphp.com/docs/forms) - A form builder for building forms in Livewire
 
 ### Debugging
 
@@ -35,7 +36,7 @@ A curated list of packages for Web Development via [Laravel](https://laravel.com
 
 [Get to parent 🧛](#packages)
 
-- [alpinejs](https://alpinejs.dev/)
+- [alpinejs](https://alpinejs.dev/) - Reactive library for progressive enhancement in HTML
 
 ## Applications
 
@@ -45,7 +46,13 @@ A curated list of packages for Web Development via [Laravel](https://laravel.com
 
 [Get to parent 🧛](#applications)
 
-- [Rancher Desktop](https://rancherdesktop.io/)
+- [Rancher Desktop](https://rancherdesktop.io/) - "Docker Desktop" like Application for docker or containerd
+
+### JSON
+
+[Get to parent 🧛](#applications)
+
+- [Quicktype](https://app.quicktype.io/) - Paste JSON, get Types and Classes
 
 ## Guides
 
@@ -55,7 +62,8 @@ A curated list of packages for Web Development via [Laravel](https://laravel.com
 
 [Get to top ⬆️](#table-of-contents)
 
-- [Laravel Best Practices](https://github.com/alexeymezenin/laravel-best-practices/)
+- [Laravel Best Practices](https://github.com/alexeymezenin/laravel-best-practices/) - What the title says
+- [Oh Shit Git](https://ohshitgit.com/) - Quick help with stupid git things
 
 ## VS Code extensions
 
