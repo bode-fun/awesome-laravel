@@ -11,7 +11,7 @@ A curated list of packages for Web Development via [Laravel](https://laravel.com
     - [Debugging](#debugging)
     - [JavaScript / TypeScript](#javascript--typescript)
   - [Applications](#applications)
-  - [Container Management](#container-management)
+    - [Container Management](#container-management)
   - [Guides](#guides)
   - [Best Practices and Articles](#best-practices-and-articles)
   - [VS Code extensions](#vs-code-extensions)
@@ -41,7 +41,7 @@ A curated list of packages for Web Development via [Laravel](https://laravel.com
 
 [Get to top ⬆️](#table-of-contents)
 
-## Container Management
+### Container Management
 
 [Get to parent 🧛](#applications)
 
