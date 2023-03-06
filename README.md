@@ -7,6 +7,7 @@ A curated list of packages for Web Development via [Laravel](https://laravel.com
 - [Awesome Laravel 🐘](#awesome-laravel-)
   - [Table of Contents](#table-of-contents)
   - [Packages](#packages)
+    - [Auth](#auth)
     - [TALL-Stack](#tall-stack)
     - [Debugging](#debugging)
     - [JavaScript / TypeScript](#javascript--typescript)
@@ -20,6 +21,13 @@ A curated list of packages for Web Development via [Laravel](https://laravel.com
 ## Packages
 
 [Get to top ⬆️](#table-of-contents)
+
+### Auth
+
+[Get to parent 🧛](#packages)
+
+- [silber/bouncer](https://github.com/JosephSilber/bouncer) - Role and Permission Management
+- [spatie/laravel-permission](https://spatie.be/docs/laravel-permission/) - Role and Permission Management
 
 ### TALL-Stack
 
@@ -36,7 +44,7 @@ A curated list of packages for Web Development via [Laravel](https://laravel.com
 
 [Get to parent 🧛](#packages)
 
-- [alpinejs](https://alpinejs.dev/) - Reactive library for progressive enhancement in HTML
+- [alpinejs](https://alpinejs.dev/) - Reactive library for progressive enhancement in HTML. LiveWire integrates perfectly with it
 
 ## Applications
 
